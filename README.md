@@ -1,3 +1,7 @@
 # gitskills
 Creating a new branch is quick
-Creating a new branch is quick & simple
+<<<<<<< HEAD
+Creating a new branch is quick
+=======
+Switch to a new branch feature1
+>>>>>>> feature1
